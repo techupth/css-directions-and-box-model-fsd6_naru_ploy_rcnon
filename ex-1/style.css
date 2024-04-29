@@ -1,1 +1,34 @@
-/* Start coding here */
+* {
+  padding-left: 10px;
+  gap: 0px;
+  opacity: 0px;
+  color: #183b56;
+}
+.box {
+  border: 3px solid #183b56;
+  width: 536px;
+  height: 321px;
+  background: #e4e9ed;
+  margin: 10px;
+}
+
+h1 {
+  font-family: Sarabun;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 26px;
+  text-align: left;
+  width: 369px;
+  height: 26px;
+  top: 30px;
+  left: 24px;
+}
+p {
+  width: 488px;
+  height: 124px;
+  font-family: Redacted Script;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  text-align: left;
+}
