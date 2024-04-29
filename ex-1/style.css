@@ -1,1 +1,48 @@
-/* Start coding here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.box-title {
+  width: 100vw;
+  height: 120px;
+  background-color: #92aabd;
+}
+
+.page-title {
+  width: 164px;
+  height: 16px;
+  font-size: 32px;
+  padding: 52px 0px 0px 55px;
+  color: #183b56;
+}
+
+.box-content {
+  width: 536px;
+  height: 321px;
+  margin: 50px 0px 0px 55px;
+  border: 3px solid #183b56;
+  background: #e4e9ed;
+}
+
+.box-subtitle {
+  width: 369px;
+  height: 26px;
+  margin: 30px 0px 0px 24px;
+  font-size: 24px;
+  color: #183b56;
+  font-family: Sarabun;
+}
+
+.content-img {
+  width: 404.75px;
+  height: 120px;
+  margin: 42px 0px 0px 25px;
+}
+
+.content-detail {
+  width: 488px;
+  height: 130px;
+  margin: 10px 0px 0px 24px;
+  font-size: 16px;
+}
